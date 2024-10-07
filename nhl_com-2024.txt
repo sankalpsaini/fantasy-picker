@@ -1,0 +1,200 @@
+1. Connor McDavid, F, EDM
+2. Nathan MacKinnon, F, COL
+3. Leon Draisaitl, F, EDM
+4. Nikita Kucherov, F, TBL
+5. Auston Matthews, F, TOR
+6. David Pastrnak, F, BOS
+7. Mikko Rantanen, F, COL
+8. Artemi Panarin, F, NYR (INJ.)
+9. Brady Tkachuk, F, OTT (INJ.)
+10. Sidney Crosby, F, PIT
+11. Cale Makar, D, COL
+12. J.T. Miller, F, VAN
+13. Kirill Kaprizov, F, MIN
+14. William Nylander, F, TOR
+15. Matthew Tkachuk, F, FLA
+16. Quinn Hughes, D, VAN
+17. Jack Hughes, F, NJD
+18. Evan Bouchard, D, EDM
+19. Igor Shesterkin, G, NYR
+20. Zach Hyman, F, EDM
+21. Sam Reinhart, F, FLA
+22. Roman Josi, D, NSH
+23. Juuse Saros, G, NSH
+24. Jake Oettinger, G, DAL
+25. Filip Forsberg, F, NSH
+26. Chris Kreider, F, NYR
+27. Elias Pettersson, F, VAN
+28. Alex Ovechkin, F, WSH
+29. Kyle Connor, F, WPG
+30. Jack Eichel, F, VGK
+31. Brayden Point, F, TBL
+32. Jake Guentzel, F, TBL
+33. Victor Hedman, D, TBL
+34. Connor Hellebuyck, G, WPG
+35. Jeremy Swayman, G, BOS
+36. Mitch Marner, F, TOR
+37. Sergei Bobrovsky, G, FLA
+38. Adam Fox, D, NYR
+39. Vincent Trocheck, F, NYR
+40. Sebastian Aho, F, CAR
+41. Andrei Vasilevskiy, G, TBL
+42. Jason Robertson, F, DAL (INJ.)
+43. Rasmus Dahlin, D, BUF
+44. Aleksander Barkov, F, FLA
+45. Brad Marchand, F, BOS
+46. Connor Bedard, F, CHI
+47. Alexandar Georgiev, G, COL
+48. Stuart Skinner, G, EDM
+49. Thatcher Demko, G, VAN (INJ.)
+50. Adrian Kempe, F, LAK
+51. Carter Verhaeghe, F, FLA
+52. Joel Eriksson Ek, F, MIN
+53. Steven Stamkos, F, NSH
+54. Mikhail Sergachev, D, UTA
+55. Wyatt Johnston, F, DAL
+56. Brock Boeser, F, VAN
+57. Noah Dobson, D, NYI
+58. Mathew Barzal, F, NYI
+59. Travis Konecny, F, PHI
+60. Jesper Bratt, F, NJD
+61. Dylan Larkin, F, DET
+62. John Tavares, F, TOR
+63. Tim Stützle, F, OTT (INJ.)
+64. Jonathan Marchessault, F, NSH
+65. Mika Zibanejad, F, NYR
+66. Josh Morrissey, D, WPG
+67. Dougie Hamilton, D, NJD
+68. Ilya Sorokin, G, NYI (INJ.)
+69. Tage Thompson, F, BUF
+70. Owen Tippett, F, PHI
+71. Kevin Fiala, F, LAK
+72. Ryan Nugent-Hopkins, F, EDM
+73. Cole Caufield, F, MTL
+74. Bo Horvat, F, NYI
+75. Roope Hintz, F, DAL
+76. Charlie McAvoy, D, BOS
+77. Tomas Hertl, F, VGK
+78. Frederik Andersen, G, CAR
+79. Gustav Forsling, D, FLA
+80. Blake Coleman, F, CGY
+81. Mark Scheifele, F, WPG
+82. Patrick Kane, F, DET
+83. Clayton Keller, F, UTA
+84. Joseph Woll, G, TOR
+85. Jacob Markstrom, G, NJD
+86. Robert Thomas, F, STL
+87. Brock Nelson, F, NYI
+88. Nikolaj Ehlers, F, WPG
+89. Anze Kopitar, F, LAK
+90. Devon Toews, D, COL
+91. Andrei Svechnikov, F, CAR
+92. Trevor Moore, F, LAK
+93. Alex DeBrincat, F, DET
+94. Miro Heiskanen, D, DAL
+95. Nick Suzuki, F, MTL
+96. Brandon Hagel, F, TBL
+97. Matt Duchene, F, DAL
+98. Seth Jarvis, F, CAR
+99. Nico Hischier, F, NJD
+100. Juraj Slafkovsky, F, MTL
+101. Evgeni Malkin, F, PIT
+102. Morgan Rielly, D, TOR
+103. Matt Boldy, F, MIN (INJ.)
+104. Timo Meier, F, NJD
+105. Mats Zuccarello, F, MIN
+106. MacKenzie Weegar, D, CGY
+107. Claude Giroux, F, OTT
+108. Alex Tuch, F, BUF
+109. Mark Stone, F, VGK
+110. Ryan O'Reilly, F, NSH
+111. Logan Stankoven, F, DAL (rookie)
+112. Matvei Michkov, F, PHI (rookie)
+113. Macklin Celebrini, F, SJS (rookie; INJ.)
+114. Jordan Binnington, G, STL
+115. Alexis Lafrenière, F, NYR
+116. Will Smith, F, SJS (rookie)
+117. Mattias Ekholm, D, EDM
+118. Logan Cooley, F, UTA
+119. Brandon Montour, D, SEA
+120. Vince Dunn, D, SEA
+121. Moritz Seider, D, DET
+122. Erik Karlsson, D, PIT (INJ.)
+123. Artturi Lehkonen, F, COL (INJ.)
+124. Elias Lindholm, F, BOS
+125. William Karlsson, F, VGK
+126. Jeff Skinner, F, EDM
+127. Brock Faber, D, MIN
+128. Adin Hill, G, VGK
+129. Noah Hanifin, D, VGK
+130. Teuvo Teravainen, F, CHI
+131. Mason Marchment, F, DAL
+132. Pavel Buchnevich, F, STL
+133. Frank Vatrano, F, ANA
+134. Ukko-Pekka Luukkonen, G, BUF
+135. Linus Ullmark, G, OTT
+136. Pyotr Kochetkov, G, CAR
+137. Shea Theodore, D, VGK
+138. Dylan Strome, F, WSH
+139. Nazem Kadri, F, CGY
+140. Jamie Benn, F, DAL
+141. Lucas Raymond, F, DET
+142. Vladimir Tarasenko, F, DET
+143. Jake DeBrusk, F, VAN
+144. Luke Hughes, D, NJD (INJ.)
+145. Jordan Kyrou, F, STL
+146. Drake Batherson, F, OTT
+147. Gabriel Vilardi, F, WPG
+148. Filip Hronek, D, VAN
+149. Zach Werenski, D, CBJ
+150. Brent Burns, D, CAR
+151. Nick Schmaltz, F, UTA
+152. Viktor Arvidsson, F, EDM
+153. Casey Mittelstadt, F, COL
+154. Quinton Byfield, F, LAK
+155. Darcy Kuemper, G, LAK
+156. Connor Ingram, G, UTA
+157. Jonathan Drouin, F, COL
+158. Lawson Crouse, F, UTA
+159. Jared McCann, F, SEA (INJ.)
+160. Martin Necas, F, CAR
+161. John Carlson, D, WSH
+162. Tyler Toffoli, F, SJS
+163. Gustav Nyquist, F, NSH
+164. Alex Pietrangelo, D, VGK
+165. Tom Wilson, F, WSH
+166. Sam Bennett, F, FLA
+167. Kris Letang, D, PIT
+168. Mason McTavish, F, ANA
+169. Joey Daccord, G, SEA
+170. Ilya Samsonov, G, VGK
+171. Thomas Harley, D, DAL
+172. Oliver Bjorkstrand, F, SEA
+173. Eeli Tolvanen, F, SEA
+174. Shayne Gostisbehere, D, CAR
+175. Seth Jones, D, CHI
+176. JJ Peterka, F, BUF (INJ.)
+177. Bryan Rust, F, PIT (INJ.)
+178. Brady Skjei, D, NSH
+179. Adam Fantilli, F, CBJ
+180. Cutter Gauthier, F, ANA (rookie)
+181. Semyon Varlamov, G, NYI
+182. Mike Matheson, D, MTL
+183. Lane Hutson, D, MTL (rookie)
+184. Philipp Kurashev, F, CHI
+185. Anthony Duclair, F, NYI
+186. Cole Perfetti, F, WPG
+187. Travis Sanheim, D, PHI
+188. Ivan Barbashev, F, VGK
+189. Jake Sanderson, D, OTT
+190. Tyler Seguin, F, DAL
+191. Taylor Hall, F, CHI
+192. Leo Carlsson, F, ANA
+193. Mavrik Bourque, F, DAL (rookie)
+194. Dylan Guenther, F, UTA
+195. Arturs Silovs, G, VAN (rookie)
+196. Mikael Granlund, F, SJS
+197. Tyler Bertuzzi, F, CHI
+198. Jakob Chychrun, D, WSH
+199. Brandt Clarke, D, LAK
+200. Josh Doan, F, UTA (rookie)
